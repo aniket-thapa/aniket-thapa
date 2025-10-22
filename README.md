@@ -1,12 +1,16 @@
-<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand"/>
+    Hi, I'm Aniket Thapa
+  </h3>
+</div>
 
-# 👨‍💻 Aniket Thapa  
-**Full-Stack Developer | AI & Backend Enthusiast**
+<p align="center">
+I'm a Full-Stack Developer and Information Technology undergraduate passionate about building scalable web applications.  
+I specialize in the <b>MERN stack (Node.js, Express.js, React, MongoDB)</b> and have hands-on experience designing and deploying systems, including those with <b>AI features like natural language processing and vector search</b>.
+</p>
 
-<p>
-Information Technology undergraduate specializing in <b>Node.js, React, and AI-driven solutions</b>.  
-<br>
-Seeking impactful software engineering roles.
+<p align="center">
+I'm currently seeking software engineering opportunities to apply my backend development skills and contribute to impactful projects.
 </p>
 
 <!-- Social Links -->
