@@ -1,19 +1,20 @@
+<div align="center">
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand"/>
     Hi, I'm Aniket Thapa
   </h3>
-</div>
 
-<p align="center">
-I'm a Full-Stack Developer and Information Technology undergraduate passionate about building scalable web applications.  
-I specialize in the <b>MERN stack (Node.js, Express.js, React, MongoDB)</b> and have hands-on experience designing and deploying systems, including those with <b>AI features like natural language processing and vector search</b>.
-</p>
+  <p>
+  I'm a Full-Stack Developer and Information Technology undergraduate passionate about building scalable web applications.  
+  I specialize in the <b>MERN stack (Node.js, Express.js, React, MongoDB)</b> and have hands-on experience designing and deploying systems, including those with <b>AI features like natural language processing and vector search</b>.
+  </p>
 
-<p align="center">
-I'm currently seeking software engineering opportunities to apply my backend development skills and contribute to impactful projects.
-</p>
+  <p>
+  I'm currently seeking software engineering opportunities to apply my backend development skills and contribute to impactful projects.
+  </p>
 
 <!-- Social Links -->
+### 🤝 Connect with Me
 <p>
   <a href="https://linkedin.com/in/aniket-thapa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
